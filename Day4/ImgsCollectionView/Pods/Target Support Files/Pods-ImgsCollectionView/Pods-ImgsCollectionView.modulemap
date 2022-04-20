@@ -1,0 +1,6 @@
+framework module Pods_ImgsCollectionView {
+  umbrella header "Pods-ImgsCollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}
